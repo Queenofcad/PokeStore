@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
     "build": "^0.1.4",
     "netlify-build-plugin-speedcurve": "^1.0.5",
     "netlify-deployment-hours-plugin": "0.0.10",
@@ -48,5 +49,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Queenofcad/PokeStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Queenofcad/PokeStore/issues"
+  },
+  "homepage": "https://github.com/Queenofcad/PokeStore#readme"
 }
