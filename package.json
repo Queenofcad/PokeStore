@@ -8,6 +8,8 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "build": "^0.1.4",
+    "netlify-build-plugin-speedcurve": "^1.0.5",
+    "netlify-deployment-hours-plugin": "0.0.10",
     "polished": "^3.6.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
