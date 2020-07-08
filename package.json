@@ -53,12 +53,9 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
+  "author": "Queenofcad <62190908+Queenofcad@users.noreply.github.com>",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Queenofcad/PokeStore.git"
-  },
+  "repository": "git+https://github.com/Queenofcad/PokeStore.git",
   "bugs": {
     "url": "https://github.com/Queenofcad/PokeStore/issues"
   },
