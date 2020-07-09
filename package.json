@@ -7,26 +7,15 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "axios": "^0.19.2",
-    "axios-mock-adapter": "^1.18.1",
-    "build": "^0.1.4",
-    "express": "^4.17.1",
-    "express-favicon": "^2.0.1",
-    "immer": "^7.0.5",
-    "netlify-build-plugin-speedcurve": "^1.0.5",
-    "netlify-deployment-hours-plugin": "0.0.10",
-    "path": "^0.12.7",
     "polished": "^3.6.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.10.0",
     "react-redux": "^7.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "3.4.1",
     "reactotron-react-js": "^3.3.7",
     "reactotron-redux": "^3.1.3",
     "redux": "^4.0.5",
-    "styled-components": "^5.1.1",
     "sweetalert": "^2.1.2"
   },
   "scripts": {
@@ -53,11 +42,6 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "author": "Queenofcad <62190908+Queenofcad@users.noreply.github.com>",
-  "license": "ISC",
-  "repository": "git+https://github.com/Queenofcad/PokeStore.git",
-  "bugs": {
-    "url": "https://github.com/Queenofcad/PokeStore/issues"
-  },
-  "homepage": "https://github.com/Queenofcad/PokeStore#readme"
+  "author": "",
+  "license": "ISC"
 }
