@@ -1,0 +1,4 @@
+command: npm run build
+commandOrigin: ui
+publish: /opt/build/repo/build
+
