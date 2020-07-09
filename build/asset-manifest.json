@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Queenofcad/PokeStorestatic/js/main.42001367.chunk.js",
+    "main.js.map": "/Queenofcad/PokeStorestatic/js/main.42001367.chunk.js.map",
+    "runtime-main.js": "/Queenofcad/PokeStorestatic/js/runtime-main.721588d9.js",
+    "runtime-main.js.map": "/Queenofcad/PokeStorestatic/js/runtime-main.721588d9.js.map",
+    "static/js/2.b5328158.chunk.js": "/Queenofcad/PokeStorestatic/js/2.b5328158.chunk.js",
+    "static/js/2.b5328158.chunk.js.map": "/Queenofcad/PokeStorestatic/js/2.b5328158.chunk.js.map",
+    "index.html": "/Queenofcad/PokeStoreindex.html",
+    "precache-manifest.0d496a47a5f69407738b7ad6befe147d.js": "/Queenofcad/PokeStoreprecache-manifest.0d496a47a5f69407738b7ad6befe147d.js",
+    "service-worker.js": "/Queenofcad/PokeStoreservice-worker.js",
+    "static/js/2.b5328158.chunk.js.LICENSE.txt": "/Queenofcad/PokeStorestatic/js/2.b5328158.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721588d9.js",
+    "static/js/2.b5328158.chunk.js",
+    "static/js/main.42001367.chunk.js"
+  ]
+}
