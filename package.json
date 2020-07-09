@@ -19,6 +19,7 @@
     "reactotron-react-js": "^3.3.7",
     "reactotron-redux": "^3.1.3",
     "redux": "^4.0.5",
+    "styled-components": "^5.1.1",
     "sweetalert": "^2.1.2",
     "typescript": "^3.9.6"
   },
@@ -47,5 +48,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Queenofcad/PokeStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Queenofcad/PokeStore/issues"
+  },
+  "homepage": "https://github.com/Queenofcad/PokeStore#readme"
 }
