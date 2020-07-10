@@ -15,3 +15,6 @@ Página construida com React inicializaddo com npm direto no Vsual Studio Code e
 #botões de anterior e próxima pagina.
 
 Site pronto  para avaliação mas em processo continuo de  aperfeiçoamento, apresentou inumeros problemas com deploy e não abre o Back-end, apesar de estar completo e rodar bem no host.
+
+
+https://pokestore2020.netlify.app/
