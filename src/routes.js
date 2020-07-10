@@ -2,7 +2,7 @@ import React from 'react';
 import { bindActionCreators } from 'redux';
 import { Switch, Route } from 'react-router-dom';
 import { connect } from 'react-redux';
-import Checkout from './pages/index';
+import Checkout from './pages/Checkout/index';
 import * as ThemeActions from './store/modules/theme/Actions';
 
 function Routes({ defineTheme, theme }) {

@@ -3,9 +3,9 @@ import { connect } from 'react-redux';
 import { FaSpinner } from 'react-icons/fa';
 import swal from '@sweetalert/with-react';
 import { Container, Loading, Pagination } from './style';
-import { getPokemonsOfType } from '../services/PokemonService';
-import Cart from '../components/Cart';
-import ProductList from '../components/ProductList';
+import { getPokemonsOfType } from '../../services/PokemonService';
+import Cart from '../../components/Cart';
+import ProductList from '../../components/ProductList';
 
 class Checkout extends Component {
   state = {
