@@ -4,7 +4,7 @@
 
 Desafio Hiring Coders, Gama Academy.
 
-Página construida com React inicializaddo com npm direto no Vsual Studio Code e posteriormente utilizado Yarn.
+Página construida com React inicializaddo com npm direto no Visual Studio Code.
 
 #navegador de busca de Pokémon;
 
